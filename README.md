@@ -2,7 +2,7 @@
 
 Lista atual dos meus addons
 
-## Getting Started
+## Ordem alfabeta
 
 - [AdiBags](https://www.curseforge.com/wow/addons/adibags) - `Modifica as bags e bancos por categoria`
   - [AdiBags - Artifact Power](https://www.curseforge.com/wow/addons/adibags-artifacts) - `Filtro de poder de artefato`
@@ -33,7 +33,7 @@ Lista atual dos meus addons
    - [Frenemy](https://www.curseforge.com/wow/addons/frenemy) - `Lista de amigos e guild`
    - [gmExp](https://www.curseforge.com/wow/addons/gmexp) - `XP e poder de artefato`
    - [gmProf](https://www.curseforge.com/wow/addons/myprof) - `Profissao`
-   - []() - ``
+   - [MailNotifier Broker](https://www.curseforge.com/wow/addons/mailnotifier-broker) - `Correio`
    - []() - ``
    - []() - ``
  - [Best In Slot Redux](https://www.curseforge.com/wow/addons/bestinslotredux) - `Permite configurar seu BiS nas raids e mostra na descricao quais itens cai dele`
@@ -48,6 +48,7 @@ Lista atual dos meus addons
    - [BigWigs - Countdown Heroes of the Storm](https://www.curseforge.com/wow/addons/bigwigs_countdown_heroesofthestorm) - `Voz de heroes of the storm na contagem`
    - [BigWigs - Countdown Overwatch](https://www.curseforge.com/wow/addons/bigwigs_countdown_overwatch) - `Voz de overwatch na contagem`
    - [BigWigs - Voice](https://www.curseforge.com/wow/addons/bigwigs_voice) - `Fala em voz o nome das habilidades de alguns bosses`
+   - [LittleWigs](https://www.curseforge.com/wow/addons/little-wigs) - `Modulo de dungeons`
  - [Bonus Roll Preview](https://www.curseforge.com/wow/addons/bonusrollpreview) - `Mostra o que pode vir no roll extra em cada boss direto na janela de roll`
  - [Bosses Killed](https://www.curseforge.com/wow/addons/bosseskilled) - `Lista de boss que vc ja fez ou nao ao lado do localizador`
  - [Can I Mog It?](https://www.curseforge.com/wow/addons/can-i-mog-it) - `Mostra se vc pode ou nao aprender ou se ja tem um transmog,`
@@ -80,11 +81,23 @@ Lista atual dos meus addons
     - [HandyNotes - Travel Guide](https://www.curseforge.com/wow/addons/handynotes_travelguide) - `Guia de viagem`
     - [HandyNotes - Mysterious Camel Figurines](https://www.curseforge.com/wow/addons/handynotes-mysterious-camel-figurines) - `Camelos pra mount`
  - [Hidden Artifact Tracker](https://www.curseforge.com/wow/addons/hiddenartifacttracker) - `Acompanha a progressao da aparencia escondida das armas`
- - []() - ``
- - []() - ``
- - []() - ``
- - []() - ``
- - []() - ``
+ - [Hide Orderhall Bar](https://www.curseforge.com/wow/addons/hideorderhallbar) - `Esconde a barra da Classhall`
+ - [Hide Talking Head](https://www.curseforge.com/wow/addons/hidetalkinghead) - `Esconde as Talkiing Head`
+ - [idTip](https://www.curseforge.com/wow/addons/spellid) - `Id de tudo`
+ - [Kaliel's Tracker](https://www.curseforge.com/wow/addons/kaliels-tracker) - `Melhora o menu de objetivos de quests`
+ - [Keystone Helper](https://www.curseforge.com/wow/addons/keystonehelper) - `Mostra os affixos das Mythic+ na pedra`
+ - [Legion Map Zoomer](https://www.curseforge.com/wow/addons/legion-map-zoomer) - `Arruma o problema de zoom out em algumas classhalls`
+ - [Legion Wardrobe](https://www.curseforge.com/wow/addons/legion-wardrobe) - `Melhora a aba de transmogs`
+ - [LoggerHead](https://www.curseforge.com/wow/addons/loggerhead) - `Salva automaticamente os logs de combate`
+ - [ls: Toasts](https://www.curseforge.com/wow/addons/ls-toasts) - `Melhora aparencia das notificacoes de loot`
+    - [ls: Toasts - Rehok](https://www.curseforge.com/wow/addons/ls-toasts-rehok) - `Skin flat`
+ - [MailNotifier](https://www.curseforge.com/wow/addons/mailnotifier) - `Notificacao de correio`
+ - [Masque](https://www.curseforge.com/wow/addons/masque) - `Modifica a aparencia dos botoes em geral`
+    - [Masque: Apathy](https://www.curseforge.com/wow/addons/masque-apathy)
+    - [Masque: Caith](https://www.curseforge.com/wow/addons/masque-caith)
+    - [Masque: LiteStep](https://www.curseforge.com/wow/addons/masque-litestep)
+    - [Masque: Trinity](http://www.wowinterface.com/downloads/info8861-MasqueTrinity.html)
+ - [Model Pique](https://www.curseforge.com/wow/addons/model-pique) - `Mostra o modelo de mount e pet com o Ctrl+Click`
  - []() - ``
  - []() - ``
  - []() - ``
